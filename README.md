@@ -3,7 +3,7 @@
 ## Fiche d'Identité
 
 *   **Type de projet :** Projet de Recherche
-*   **Team Lead :** Benjamin Leblanc
+*   **Team Lead :** Benjamin Leblanc  
 *   **Partenaire Académique/Industriel :** N/A
 *   **Effectif recherché :** 5 membres
 *   **Profils recherchés :** Mathématiques appliquées, Probabilités, Calcul intégral, Programmation Python
